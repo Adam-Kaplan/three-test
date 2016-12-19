@@ -1,3 +1,5 @@
+# three-test
+Testing threejs for the purpose of creating a browser based game.
 # webpack-express-boilerplate
 A boilerplate for running a Webpack workflow in Node express
 

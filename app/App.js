@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from './App.css';
 
+import Game from '../game/Game';
+
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -9,7 +11,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div className={styles.app}>
-        bar
+        <Game />
       </div>
     );
   }
